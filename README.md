@@ -58,6 +58,3 @@
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pierreyan-dev&hide_border=true"/>
 </p>
-
-<!-- 访客计数 -->
-<p align="left">Visitor Count：<img src="https://profile-counter.glitch.me/pierreyan-dev/count.svg" /></p>
